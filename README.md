@@ -13,6 +13,6 @@
 
 ## Layout
   Você pode visualizar o layout desse projeto através
-[desse link](https://www.figma.com/file/k4d0q8QkePtigrYD23xeLx/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Explorer(Copy)?type=design&node-id=306%3A3&t=Zg2E2DUzcXrcVk1S-1)
-É necessário ter uma conta registrada no [Figma](https://www.figma.com)
+[desse link](https://www.figma.com/file/k4d0q8QkePtigrYD23xeLx/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Explorer(Copy)?type=design&node-id=306%3A3&t=Zg2E2DUzcXrcVk1S-1).
+ É necessário ter uma conta registrada no [Figma](https://www.figma.com)
  
