@@ -38,6 +38,8 @@ body {
 }
 
 nav {
+  text-align: justify;
+
   padding: 64px;
 
   grid-area: timeline;
@@ -121,6 +123,7 @@ font-size: 0.75rem;
   height: 280px;
   overflow: hidden;
   border-radius: 8px;
+
 }
 
 .memory:hover img {
